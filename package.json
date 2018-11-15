@@ -1,0 +1,22 @@
+{
+  "name": "notesapi",
+  "version": "1.0.0",
+  "description": "API for notes remembering app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdefelice/notesapi.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "Nicholas Defelice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickdefelice/notesapi/issues"
+  },
+  "homepage": "https://github.com/nickdefelice/notesapi#readme"
+}
