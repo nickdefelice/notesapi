@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nickdefelice/notesapi/issues"
   },
-  "homepage": "https://github.com/nickdefelice/notesapi#readme"
+  "homepage": "https://github.com/nickdefelice/notesapi#readme",
+  "dependencies": {
+    "hapi": "^17.7.0"
+  }
 }
